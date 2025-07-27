@@ -1,4 +1,4 @@
-👩‍💻 Mahak1311
+👩‍💻 Mahak
 
 Hey there! I'm Mahak, a passionate learner stepping into the world of AI/ML and Python programming.🧠💻
 
