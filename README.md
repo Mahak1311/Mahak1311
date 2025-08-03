@@ -34,7 +34,7 @@ Hey there! I'm Mahak, a passionate learner stepping into the world of AI/ML and 
 
 ### 📫 Let's Connect!
 
-- 🔗[Linkedin] (https://www.linkedin.com/in/mahak-naithani-97774534a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗[Linkedin] (https://www.linkedin.com/in/mahak-naithani-97774534a)
 
 
 ---
