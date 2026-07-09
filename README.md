@@ -22,7 +22,7 @@ I'm passionate about building intelligent AI/ML solutions. Currently learning an
 
 | | |
 |---|---|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahak1311&theme=dark" alt="Stats Card" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahak1311&theme=dark" alt="Languages by Repo" /> |
+|<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahak1311&theme=dark" alt="Stats Card" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahak1311&theme=dark&exclude=typescript" alt="Languages by Repo" /> |
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahak1311&theme=github-dark&area=true" alt="Contribution Graph" />
 
@@ -37,6 +37,7 @@ I'm passionate about building intelligent AI/ML solutions. Currently learning an
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -85,3 +86,4 @@ I'm passionate about building intelligent AI/ML solutions. Currently learning an
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
 </div>
+
