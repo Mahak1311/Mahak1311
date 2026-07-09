@@ -1,10 +1,10 @@
 # Mahak Naithani
 
-**AI/ML Enthusiast · Aspiring Engineer · Python Developer**
+**AI/ML Enthusiast · Python Developer**
 
-I'm passionate about building intelligent AI/ML solutions. Currently learning and exploring machine learning, working on projects, and participating in hackathons. I aspire to become an **AI Engineer** and create practical solutions that make an impact.
+I'm passionate about building intelligent AI/ML solutions. Currently learning and exploring machine learning, working on projects, and participating in hackathons.
 
-**Ahmedabad, Gujarat · 3rd Year Computer Engineering @ Shree Swaminarayan Institute of Technology, GTU**
+**Ahmedabad, Gujarat · Computer Engineering Student @ Shree Swaminarayan Institute of Technology, GTU**
 
 <div align="center">
 
