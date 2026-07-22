@@ -22,7 +22,7 @@ I'm passionate about building intelligent AI/ML solutions. Currently learning an
 
 | | |
 |---|---|
-|<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahak1311&theme=dark" alt="Stats Card" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahak1311&theme=dark&exclude=typescript" alt="Languages by Repo" /> |
+|<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahak1311&theme=dark&exclude=typescript" alt="Languages by Repo" /> |
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahak1311&theme=github-dark&area=true" alt="Contribution Graph" />
 
