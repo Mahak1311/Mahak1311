@@ -73,15 +73,7 @@ I'm passionate about building intelligent AI/ML solutions. Currently learning an
 
 ---
 
-## 🏆 Recent Activity
 
-<div align="center">
-
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahak1311&theme=gruvbox)](https://github.com/Mahak1311)
-
-</div>
-
----
 
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
